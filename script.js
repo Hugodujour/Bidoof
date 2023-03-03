@@ -50,3 +50,4 @@
           pkmn.style.left = `${random(window.innerWidth - pkmn.width)}px`;
       }
   }
+  
